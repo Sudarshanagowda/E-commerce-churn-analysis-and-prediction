@@ -1,5 +1,5 @@
 # E-commerce-churn-analysis-and-prediction
-.This project analyzed customer churn in an e-commerce setting to understand patterns, identify high-risk customers, 
+This project analyzed customer churn in an e-commerce setting to understand patterns, identify high-risk customers, 
 and recommend strategies to retain them. 
 The analysis and predictive modeling revealed key insights about customer behavior and factors contributing to churn. 
 By segmenting customers based on churn risk, we identified groups requiring different retention strategies. 
